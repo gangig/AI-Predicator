@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.venv/
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Скомпилированные файлы
+*.exe
+*.msi
+*.dmg
+*.app
+*.deb
+*.rpm
+
+# Папки с билдами
+Output/
+build/
+dist/
+*.spec
+
+# Данные и модели (если большие)
+data/
+models/
+results/
+checkpoints/
+
+# Временные файлы
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Секреты
+*.env
+.env
+*.key
