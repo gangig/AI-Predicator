@@ -38,7 +38,7 @@ Linux/Mac: `source venv/bin/activate`)
 
 ## 📥 Скачать
 
-[Скачать DroughtPredictor Setup (v1.0.0)](https://github.com/gangig/AI-Predicator/releases/download/v1.1/DroughtPredictor_Setup.exe)
+[Скачать DroughtPredictor Setup (v1.1)](https://github.com/gangig/AI-Predicator/releases/download/v1.1/DroughtPredictor_Setup.exe)
 
 ## 🚀 Быстрый старт
 
